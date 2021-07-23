@@ -1,0 +1,5 @@
+ibm_cloud_sdk_core==3.10.0
+PyAudio==0.2.11
+ibm_watson==5.2.0
+simpleaudio==1.0.4
+PySimpleGUI==4.45.0
