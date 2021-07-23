@@ -5,6 +5,7 @@
     1. Fábio Tranzillo Nogueira
     2. Guilherme Augusto das Chagas Praser
     3. Marcelo Caldeira Pereira
+    
 ### Sobre o aplicativo (Text-to-speech and speech-to-text converter):
     Foi desenvolvido um aplcativo contendo 03 funções básicas, conforme seguem:
     
@@ -15,3 +16,12 @@
     3. Tocador de audio (wav): Nesse caso será solicitado a identificação do arquivo de audio, por meio de navegador(BROWSE) apresentado na própria aplicação. Após a identificação, sua reprodução será executada após o click no botão OK.
     
     OBS: Em toda aplicação é apresentada uma SYSOUT demonstrando toda execução que vislubramos como importante nesse momento de apredizado. 
+
+###### Dicas para instalação do aplicativo:
+    1. Criar uma pasta com o nome que desejar;
+    2. Baixar o projeto "Projeto_Cognitiva_2.py" na pasta criada;
+    3. Baixar o "requirements.txt" na pasta criada;
+    4. Executar a instalação dos requisitos do projeto:
+        pip install -r requirements.txt
+    5. Executar o projeto:
+        python Projeto_Cognitiva_2.py
