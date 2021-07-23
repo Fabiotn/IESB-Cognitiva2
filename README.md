@@ -9,8 +9,7 @@
 ### Sobre o aplicativo (Text-to-speech and speech-to-text converter):
     Foi desenvolvido um aplcativo contendo 03 funções básicas, conforme seguem:
     
-    1. Conversão de texto para fala: Nesse caso é necessário 
-    informar o autenticador IBM watson para realizar a geração do audio. Caso não seja informado um TEXTO, será gerado um aúdio com o texto padrão (Texto não informado). Todo audio gerado posuirá o nome "audio.wav" e será gravado na pasta de instalação da aplicação. O PLAY do audio gerado será iniciado no momento da sua geração, caso seja assinalado o "check: Play Audio". O "check: Play Audio" é opcional.
+    1. Conversão de texto para fala: Nesse caso é necessário informar o autenticador IBM watson para realizar a geração do audio. Caso não seja informado um TEXTO, será gerado um aúdio com o texto padrão (Texto não informado). Todo audio gerado posuirá o nome "audio.wav" e será gravado na pasta de instalação da aplicação. O PLAY do audio gerado será iniciado no momento da sua geração, caso seja assinalado o "check: Play Audio". O "check: Play Audio" é opcional.
     
     2. Conversão de fala para texto: Nesse caso é necessário informar o autenticador IBM watson para START de captura de voz. É opcional o assinalamento do "check: Verbose Processing", caso o mesmo seja assinalado o processamento irá apresentar resultados itermediários, caso contrário, somete apresentará o resultado final. Enquanto não for realizado STOP o canal para captura de voz estará aberto, sendo possível a utilização de qualquer outra funcionalidade em paralelo.
     
