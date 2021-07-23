@@ -17,7 +17,7 @@
     
     OBS: Em toda aplicação é apresentada uma SYSOUT demonstrando toda execução que vislubramos como importante nesse momento de apredizado. 
 
-###### Dicas para instalação do aplicativo:
+### Dicas para instalação do aplicativo:
     1. Criar uma pasta com o nome que desejar;
     2. Baixar o projeto "Projeto_Cognitiva_2.py" na pasta criada;
     3. Baixar o "requirements.txt" na pasta criada;
